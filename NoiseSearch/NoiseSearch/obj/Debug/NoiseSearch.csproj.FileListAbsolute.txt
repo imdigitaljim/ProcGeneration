@@ -1,0 +1,5 @@
+F:\Visual Studio 2013\Projects\Noise\NoiseSearch\NoiseSearch\bin\Debug\NoiseSearch.exe.config
+F:\Visual Studio 2013\Projects\Noise\NoiseSearch\NoiseSearch\obj\Debug\NoiseSearch.csprojResolveAssemblyReference.cache
+F:\Visual Studio 2013\Projects\Noise\NoiseSearch\NoiseSearch\obj\Debug\NoiseSearch.AppWindow.resources
+F:\Visual Studio 2013\Projects\Noise\NoiseSearch\NoiseSearch\obj\Debug\NoiseSearch.Properties.Resources.resources
+F:\Visual Studio 2013\Projects\Noise\NoiseSearch\NoiseSearch\obj\Debug\NoiseSearch.csproj.GenerateResource.Cache

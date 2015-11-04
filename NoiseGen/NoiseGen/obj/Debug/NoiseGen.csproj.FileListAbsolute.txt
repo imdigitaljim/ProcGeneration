@@ -1,0 +1,9 @@
+F:\Visual Studio 2013\Projects\Noise\NoiseGen\NoiseGen\bin\Debug\NoiseGen.exe.config
+F:\Visual Studio 2013\Projects\Noise\NoiseGen\NoiseGen\bin\Debug\NoiseGen.exe
+F:\Visual Studio 2013\Projects\Noise\NoiseGen\NoiseGen\bin\Debug\NoiseGen.pdb
+F:\Visual Studio 2013\Projects\Noise\NoiseGen\NoiseGen\obj\Debug\NoiseGen.csprojResolveAssemblyReference.cache
+F:\Visual Studio 2013\Projects\Noise\NoiseGen\NoiseGen\obj\Debug\NoiseGen.AppWindow.resources
+F:\Visual Studio 2013\Projects\Noise\NoiseGen\NoiseGen\obj\Debug\NoiseGen.Properties.Resources.resources
+F:\Visual Studio 2013\Projects\Noise\NoiseGen\NoiseGen\obj\Debug\NoiseGen.csproj.GenerateResource.Cache
+F:\Visual Studio 2013\Projects\Noise\NoiseGen\NoiseGen\obj\Debug\NoiseGen.exe
+F:\Visual Studio 2013\Projects\Noise\NoiseGen\NoiseGen\obj\Debug\NoiseGen.pdb
